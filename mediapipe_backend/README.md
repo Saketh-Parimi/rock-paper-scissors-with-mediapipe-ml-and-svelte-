@@ -5,7 +5,7 @@ This is a simple backend which will get the landmark points from the frontend an
 create the environment
 ```bash
 python/python3 -m venv venv
-
+```
 tap into the environment
 ```bash
 source /venv/bin/activate
